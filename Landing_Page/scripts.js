@@ -19,3 +19,15 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+// Add any JavaScript functionality if needed
+// For example, you could add smooth scrolling for the navigation links
+
+document.querySelectorAll('nav ul li a').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+  
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
