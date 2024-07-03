@@ -33,7 +33,7 @@ SECRET_KEY  = os.environ.get("SECRET_KEY")
 
 DEBUG = os.environ.get('DEBUG', "False").lower() == "True"    #render setting =True
 
-ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS").split(" ")         #render setting []
+ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS", [])  # Default to empty list if not set
 
 
 # Application definition
