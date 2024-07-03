@@ -1,0 +1,21 @@
+asgiref==3.8.1
+crispy-bootstrap4==2024.1
+crispy-bootstrap5==2024.2
+dj-database-url==2.2.0
+Django==5.0.6
+django-allauth==0.63.3
+django-crispy-forms==2.2
+django-formtools==2.5.1
+greenlet @ file:///croot/greenlet_1702059959679/work
+mkl-fft @ file:///work/perseverance-python-buildout/croot/mkl_fft_1698845673361/work
+mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
+mkl-service==2.4.0
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
+pillow==10.4.0
+psycopg2-binary==2.9.9
+setuptools==69.5.1
+SQLAlchemy @ file:///croot/sqlalchemy_1718378176902/work
+sqlparse==0.5.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+wheel==0.43.0
+
