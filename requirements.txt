@@ -8,7 +8,6 @@ django-allauth==0.63.3
 django-crispy-forms==2.2
 django-formtools==2.5.1
 gunicorn==22.0.0
-mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
 mkl-service==2.4.0
 numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
 packaging==24.1
