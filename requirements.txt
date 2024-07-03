@@ -7,6 +7,7 @@ django-allauth==0.63.3
 django-crispy-forms==2.2
 django-formtools==2.5.1
 greenlet @ file:///croot/greenlet_1702059959679/work
+gunicorn==22.0.0
 mkl-fft @ file:///work/perseverance-python-buildout/croot/mkl_fft_1698845673361/work
 mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
 mkl-service==2.4.0
