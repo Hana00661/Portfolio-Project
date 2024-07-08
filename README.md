@@ -31,6 +31,6 @@ Boost your confidence: See what you can create!
 
 This project is under development, with exciting features like author profiles, community features, and interactive elements planned for the future.
 
-### iagram of the architecture that clearly shows the flow of data
+### Diagram of the architecture that clearly shows the flow of data
 
-!["Alt text"]([/media/image.png])
+!["Alt text"]([media/image.png])
