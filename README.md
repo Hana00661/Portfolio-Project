@@ -34,3 +34,4 @@ This project is under development, with exciting features like author profiles, 
 ### Diagram of the architecture that clearly shows the flow of data
 
 !["Alt text"]([media/image.png])
+![Description](media/image.png)
